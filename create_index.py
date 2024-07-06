@@ -44,7 +44,7 @@ def generate_index_html(directories, output_file):
 
 
 # Specify the directories to list
-directories_to_list = ["files"]
+directories_to_list = ["images", "vector"]
 # Specify the output HTML file
 output_html_file = "index.html"
 
